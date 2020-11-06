@@ -1,0 +1,7 @@
+.todoList{
+}
+
+.todoList ul li{
+    list-style-type: none;
+    word-spacing: 15px;
+}

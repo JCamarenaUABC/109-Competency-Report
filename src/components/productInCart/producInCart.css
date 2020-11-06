@@ -1,0 +1,28 @@
+.containerData{
+    background-color: white;
+    box-shadow: -1px 1px 1px black;
+    padding: 10px 15px;
+    margin: 10px 0 15px;
+    border-radius: 35px;
+    
+    display: grid;
+    grid-template-columns: 10% 40% 30% 20%;
+    grid-template-rows: minmax(auto, auto);   
+   
+}
+
+
+.imagesProductsList{
+    width: 55px;
+    height: 100px;
+}
+
+.containerData:hover
+{
+    background-color: greenyellow;
+}
+
+.containerData .fa{
+    font-size: 1.5rem;
+
+}
